@@ -1,1 +1,46 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"cfabc16a-2470-431f-a3f0-1dbd56ce88ba","includes":["media","annotations","description"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"created_at":"2025-04-15T03:40:42.048Z","created_by":"agunnells","title":"The Last Archive, \"The Clue of the Blue Bottle\" Excerpt 3","slug":"the-last-archive-the-clue-of-the-blue-bott--3","updated_at":"2025-04-15T13:22:43.581Z","updated_by":"agunnells","parent":"e95f4058-29ec-46c4-98f9-345a65e17025","autogenerate":{"enabled":true,"type":"event","type_id":"cfabc16a-2470-431f-a3f0-1dbd56ce88ba"}}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "cfabc16a-2470-431f-a3f0-1dbd56ce88ba",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-04-15T03:40:42.048Z",
+  "created_by": "agunnells",
+  "title": "The Last Archive, \"The Clue of the Blue Bottle\" Excerpt 3",
+  "slug": "the-last-archive-the-clue-of-the-blue-bott--3",
+  "updated_at": "2025-04-15T15:40:09.178Z",
+  "updated_by": "agunnells",
+  "parent": "e95f4058-29ec-46c4-98f9-345a65e17025",
+  "autogenerate": {
+    "enabled": false,
+    "type": "event",
+    "type_id": "cfabc16a-2470-431f-a3f0-1dbd56ce88ba"
+  }
+}
