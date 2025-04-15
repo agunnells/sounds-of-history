@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "05a2cf01-171b-418e-89e3-4d9dbc4558a5",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-04-15T03:25:50.658Z",
   "created_by": "agunnells",
   "title": "Mercury Theater on the Air, \"Dracula\" Excerpt",
   "slug": "mercury-theater-on-the-air-dracula-excerpt",
-  "updated_at": "2025-04-15T03:25:50.658Z",
+  "updated_at": "2025-04-15T03:58:31.161Z",
   "updated_by": "agunnells",
   "parent": "5d16c72d-d852-41f8-8eb4-98a7b8a8352d",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "05a2cf01-171b-418e-89e3-4d9dbc4558a5"
   }
