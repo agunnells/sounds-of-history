@@ -22,6 +22,42 @@
           "text": " to demonstrate the variety of techniques producers would use to achieve particular sound effects, which included sound effects to represent \"people getting their heads chopped off (as cabbage was chopped in half with a meat cleaver), or bones being broken (by busting spare ribs apart with a pipe wrench), or human bodies being cannibalized (as the SFX man zealously consumed spaghetti)\" (80). "
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "f1bbe388-beb5-4693-918f-06f28443ccb5"
+      },
+      "event2": {
+        "uuid": "c45794b0-ece8-4463-9997-567680e5f5ba"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Noise",
@@ -33,6 +69,6 @@
   "slug": "noise",
   "created_at": "2025-04-15T02:55:51.150Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-15T02:55:51.150Z",
+  "updated_at": "2025-04-15T03:23:13.535Z",
   "updated_by": "agunnells"
 }
