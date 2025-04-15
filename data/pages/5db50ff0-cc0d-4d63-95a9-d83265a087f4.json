@@ -40,7 +40,36 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "So, here we have a reenactment of a letter that we "
+        },
+        {
+          "text": "think",
+          "italic": true
+        },
+        {
+          "text": " existed, the contents of which Grace Grimes "
+        },
+        {
+          "text": "claims",
+          "italic": true
+        },
+        {
+          "text": " she remembers. Yet, the Foolproof Players use the same 1930s radio drama style to act out the contents of the letter in a voice that is proclaimed to be Lucina Broadwell's. On the one hand, we might argue that this is a \"mere\" aesthetic choice whose main goal is to increase the entertainment value of the podcast. And yet, as Lepore and her team declare when discussing the making of the last archive, their goal with the Foolproof Players' reenactments is to sound like a "
+        },
+        {
+          "text": "real historical record",
+          "italic": true
+        },
+        {
+          "text": ". In other words, I suggest here that the particular aesthetic choice of 1930s radio drama style - in particular, the overly performed, hokey voices - serves to legitimize the information presented through the reenactment of Lucina Broadwell's alleged letter. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "To conclude, then, this curation is meant to raise questions about how the aesthetic choices made during sound production impact a listener's relationship to the information presented. Put differently, this curation asks how a recognizable sonic aesthetic such as 1930s radio drama can legitimize what is, in reality, unknown information that is unable to be corroborated. What potentially harmful implications arise from this relationship between aesthetics and history?"
         }
       ]
     }
@@ -54,6 +83,6 @@
   "slug": "sounding-like-history",
   "created_at": "2025-04-15T02:59:17.147Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-15T15:31:18.288Z",
+  "updated_at": "2025-04-15T15:40:01.698Z",
   "updated_by": "agunnells"
 }
