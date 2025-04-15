@@ -4,7 +4,18 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[text]"
+          "text": "The Last Archive",
+          "italic": true
+        },
+        {
+          "text": " is a podcast hosted and produced by Jill Lepore, the David Woods Kemper '41 Professor of American History at Harvard University and Professor of Law at Harvard Law School. The podcast, whose first season was released in May 2020, seeks to understand the historical development of concepts such as evidence, proof, and knowledge. In each episode, Lepore draws on archival items related to a particular event or series of events in order to address the larger questions posed by the podcast. However, my interest in "
+        },
+        {
+          "text": "The Last Archive ",
+          "italic": true
+        },
+        {
+          "text": "arises from one aspect of its production: reenactments. "
         }
       ]
     }
@@ -17,6 +28,6 @@
   "slug": "the-last-archive-and-the-sounds-of-history",
   "created_at": "2025-04-15T02:58:43.862Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-15T04:05:17.574Z",
+  "updated_at": "2025-04-15T13:37:28.315Z",
   "updated_by": "agunnells"
 }
