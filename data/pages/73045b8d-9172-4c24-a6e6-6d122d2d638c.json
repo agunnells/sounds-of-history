@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "4008a563-950e-4b40-8241-03fdd11e44a4",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-04-15T03:43:23.353Z",
   "created_by": "agunnells",
   "title": "The Last Archive, \"Detection of Deception\" Excerpt 1",
   "slug": "the-last-archive-detection-of-deception-ex",
-  "updated_at": "2025-04-15T03:43:23.353Z",
+  "updated_at": "2025-04-15T13:20:52.576Z",
   "updated_by": "agunnells",
   "parent": "5d16c72d-d852-41f8-8eb4-98a7b8a8352d",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "4008a563-950e-4b40-8241-03fdd11e44a4"
   }
