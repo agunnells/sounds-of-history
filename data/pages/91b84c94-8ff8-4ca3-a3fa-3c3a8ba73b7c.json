@@ -108,7 +108,43 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "There are several unique aesthetic qualities attributed to the golden age of radio drama that helped these productions maintain a place in the cultural consciousness. The sub-pages listed under \"The Golden Age of Radio Drama\" in the lefthand side bar delve into three core aspects of radio drama aesthetics: voice, noise, and music."
+          "text": "There are several unique aesthetic qualities attributed to the golden age of radio drama that helped these productions maintain a place in the cultural consciousness. The sub-pages listed under \"The Golden Age of Radio Drama\" in the lefthand side bar (and linked below) delve into three core aspects of radio drama aesthetics -voice, noise, and music - as well as how they work together to create an impactful listening experience. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Voice",
+          "link": "https://agunnells.github.io/sounds-of-history/pages/voice/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Noise",
+          "link": "https://agunnells.github.io/sounds-of-history/pages/noise/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Music",
+          "link": "https://agunnells.github.io/sounds-of-history/pages/music/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Putting It All Together",
+          "link": "https://agunnells.github.io/sounds-of-history/pages/putting-it-all-together/"
         }
       ]
     }
@@ -121,6 +157,6 @@
   "slug": "the-golden-age-of-radio-drama",
   "created_at": "2025-04-15T02:53:27.164Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-15T02:53:27.164Z",
+  "updated_at": "2025-04-15T14:43:20.720Z",
   "updated_by": "agunnells"
 }
