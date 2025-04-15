@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "81d6f8b8-8671-4fe4-aa78-bc3159e757d1": {
+      "label": "Detection of Deception Excerpt 1",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/detection-of-deception-interrogation/Detection%20of%20Deception_WMM%20Demonstration.mp3",
+      "duration": 144,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "The Last Archive, \"Detection of Deception\" Excerpt 1",
+  "created_at": "2025-04-15T03:43:23.014Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-15T03:43:23.014Z",
+  "updated_by": "agunnells"
+}
