@@ -7,6 +7,86 @@
           "text": "[text]"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "ae42d1ae-22e3-41ce-b32b-96a7f06ebb7e"
+      },
+      "event2": {
+        "uuid": "4008a563-950e-4b40-8241-03fdd11e44a4"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[text]"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "b3090d11-ce24-413c-add1-10e874a2cfc7"
+      },
+      "event2": {
+        "uuid": "dd443baf-d0eb-410e-8712-62ca1f7d6fff"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "The Foolproof Players",
@@ -18,6 +98,6 @@
   "slug": "the-foolproof-players",
   "created_at": "2025-04-15T02:59:01.395Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-15T02:59:01.395Z",
+  "updated_at": "2025-04-15T13:19:13.952Z",
   "updated_by": "agunnells"
 }
