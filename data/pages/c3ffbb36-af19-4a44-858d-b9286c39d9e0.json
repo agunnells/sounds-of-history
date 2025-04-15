@@ -18,6 +18,39 @@
           "text": "arises from one aspect of its production: reenactments. "
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This section of my curation explores how Lepore and her team approach creating historical reenactments for "
+        },
+        {
+          "text": "The Last Archive",
+          "italic": true
+        },
+        {
+          "text": ". The sub-pages listed under \"The Last Archive & The Sound(s) of History\" on the left-hand side bar (and linked below) examine how the reenactments are created and pose questions about the implications for understanding history. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Foolproof Players",
+          "link": "https://agunnells.github.io/sounds-of-history/pages/the-foolproof-players/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sounding Like History",
+          "link": "https://agunnells.github.io/sounds-of-history/pages/sounding-like-history/"
+        }
+      ]
     }
   ],
   "title": "The Last Archive & The Sound(s) of History",
@@ -28,6 +61,6 @@
   "slug": "the-last-archive-and-the-sounds-of-history",
   "created_at": "2025-04-15T02:58:43.862Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-15T13:38:59.473Z",
+  "updated_at": "2025-04-15T14:52:41.570Z",
   "updated_by": "agunnells"
 }
