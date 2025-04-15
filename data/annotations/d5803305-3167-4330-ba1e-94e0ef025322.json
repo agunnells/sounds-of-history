@@ -1,5 +1,279 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 10,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of echoing footsteps, like someone walking across a stage in a lecture hall"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "7767c47b-d0cf-4a14-bd75-3b5a6bb1b1a4"
+    },
+    {
+      "start_time": 34,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knocking on door"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "b885ea9d-795d-4618-b80a-7e2099d62f08"
+    },
+    {
+      "start_time": 36,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knocking repeats, this time louder"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "8658cf0c-29cf-4e24-8b7d-9c2d1082f948"
+    },
+    {
+      "start_time": 39,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Door opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "c82031f9-362a-48ad-8510-cbe38d9305a9"
+    },
+    {
+      "start_time": 66,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Faint murmuring, like students whispering"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "b63ede32-3f80-4753-a880-ea20fa23c133"
+    },
+    {
+      "start_time": 73,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of envelope being opened and paper unfolded"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "2ce8d485-7769-4ef3-a975-152981bb1b11"
+    },
+    {
+      "start_time": 99,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Faint sound of knife being opened"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "87143be4-0633-4369-959a-3f702a9f7bae"
+    },
+    {
+      "start_time": 102,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Faint scraping sound representing knife scraped against a gloved thumb"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "e014bf06-7819-4850-bacc-7c38c5794c09"
+    },
+    {
+      "start_time": 111,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of footsteps"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "a4e2d591-dd75-4459-bdfb-b2f580cb8f33"
+    },
+    {
+      "start_time": 118,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Door closing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "2f2e27f0-b158-4c97-af70-a3aa75664d10"
+    },
+    {
+      "start_time": 119,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Footsteps"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "422cb665-0c75-4d04-8962-af6a0e727c60"
+    },
+    {
+      "start_time": 126,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Students gasping in surprise"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "2f42e61c-27a8-4d3d-ad43-580809cd70f4"
+    },
+    {
+      "start_time": 136,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of paper being pulled from notebooks"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "dad6e740-5dfe-4eb1-b37f-454261443b4a"
+    }
+  ],
   "set": "Default",
   "event_id": "4008a563-950e-4b40-8241-03fdd11e44a4",
   "source_id": "81d6f8b8-8671-4fe4-aa78-bc3159e757d1"
