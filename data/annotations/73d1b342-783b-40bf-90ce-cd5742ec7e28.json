@@ -1,5 +1,237 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prosecutor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "6509ef19-e69e-476a-b94c-33c2be0a15ac"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "George Long"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "68974c69-6003-4ed3-bf1d-6ff178ff1b09"
+    },
+    {
+      "start_time": 12,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prosecutor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "a37bee2b-df53-45d4-a129-24e71695e237"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "George Long"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "58b5ac5a-9622-4792-959f-e2931c7eda09"
+    },
+    {
+      "start_time": 24,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prosecutor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "44287462-b17b-4407-ba57-8120c7cf75b2"
+    },
+    {
+      "start_time": 29,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore's voice, with the prosecutor's voice continuing to talk underneath"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "bbe0cb6b-f5f8-479d-8f2d-984e5261676e"
+    },
+    {
+      "start_time": 75,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long's defense attorney"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "ca4f661b-f442-48b3-bb70-ffd1b2bd2868"
+    },
+    {
+      "start_time": 84,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Portion of trial transcript: Long's defense attorney questioning a police officer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "625f3614-ff7e-472b-a0be-7670bc19c252"
+    },
+    {
+      "start_time": 145,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long's defense attorney"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "fa3a9f20-c606-4059-a85d-d2142dfc67be"
+    },
+    {
+      "start_time": 179,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Judge"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "7e217fe3-b1ec-409e-8365-4b2b8a45c7ac"
+    },
+    {
+      "start_time": 181,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jury foreman"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "cc94a0a2-be60-462e-b3b1-93d71893819d"
+    }
+  ],
   "set": "Default",
   "event_id": "b3090d11-ce24-413c-add1-10e874a2cfc7",
   "source_id": "a9bb4b2f-6043-46d7-9a67-152d0ec13543"
