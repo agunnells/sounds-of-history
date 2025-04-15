@@ -27,7 +27,6 @@
       "uuid": "cfabc16a-2470-431f-a3f0-1dbd56ce88ba",
       "includes": [
         "media",
-        "annotations",
         "label",
         "description"
       ],
@@ -55,6 +54,6 @@
   "slug": "sounding-like-history",
   "created_at": "2025-04-15T02:59:17.147Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-15T15:26:40.008Z",
+  "updated_at": "2025-04-15T15:31:18.288Z",
   "updated_by": "agunnells"
 }
