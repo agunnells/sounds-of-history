@@ -1,0 +1,126 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Radio's Origins",
+          "bold": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The history of radio dates to the late nineteenth century. In her work on the early history of the internet, Janna Quitney Anderson explains that the existence of radio was first made possible by the experiments of Heinrich Rudolf Hertz in the 1880s, which proved that \"electromagnetic radio waves could be transmitted through free space and detected over a short distance.\" By 1895, Italian inventor Guglielmo Marconi had figured out how to transmit a wireless Morse Code message to a source located over a kilometer away - the next year, in 1896, he filed a patent in England for the country's first \"wireless telegraphy\" system (Anderson). Marconi's patent in England was followed just under a decade later by a patent for the invention of radio issued by the U.S. Patent Office in 1904 (Anderson). Importantly, such scientific discoveries as the development of radio communication coincided with widespread interest in bringing theatrical performances to the masses. For example, John Pavlik's work on radio drama in the 1920s notes that, in 1881, French engineer Clement Adler filed a patent for the Théâtrophone, \"a commercial service that enabled subscribers to hear live stage performances and news reports via a network of telephone lines\" (3). The Théâtrophone first became available for use in 1890 (Pavlik 3). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The so-called \"Radio Boom\" swept through the United States in the 1920s. Anderson notes that Marconi sold much of his work to General Electric (GE) in 1919; in turn, GE founded the Radio Corporation of America and placed David Sarnoff, one of Marconi's former employees, in charge. Through 1920, radio stations began popping up across the United States in cities such as Pittsburgh and Detroit (Pavlik 3). In fact, Pavlik explains that a \"Detroit station now known as WWJ Radio delivered an audio news report on August 31 of that year, possibly the first newscast ever via the airwaves\" (3). At least 500 radio stations were operational across the United States by 1923 (Pavlik 3). And despite the stock market crash of 1929 and the severe financial depression that followed, radio programming continued to flourish (Anderson). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The 1930s: A Golden Age of Radio",
+          "underline": true,
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Despite its ability to spread a wide array of content, radio became particularly valuable as a source of entertainment for households across the United States. For example, in his study of radio aesthetics, Neil Verma notes that "
+        },
+        {
+          "text": "Amos 'n' Andy ",
+          "italic": true
+        },
+        {
+          "text": "- which debuted in 1928 as one of the first radio comedy shows in the United States - has been described as \"radio's "
+        },
+        {
+          "text": "Birth of a Nation",
+          "italic": true
+        },
+        {
+          "text": "\" in terms of its cultural impact (38). Radio's popularity is reflected in the estimated number of radios owned by Americans: in 1930, Americans are estimated to have owned 12 million radios, a number that surpassed 28 million by the end of the decade (Pavlik 6). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "One particular format that captivated listeners across the United States was the radio drama. In fact, Verma declares that radio drama was \"perhaps the most prolific form of narrative fiction\" (2) throughout the 1930s and 1940s. As Pavlik explains, while a host of original scripts written specifically for radio dramas were developed during this time, radio dramas were also often adapted from other media - including \"books, short stories [...], Broadway plays, and feature films\" (33). For example, in the early 1930s, CBS and NBC both aired adapted versions of Edgar Allen Poe's famous short story \"The Tell-Tale Heart\" (Verma 100). By the late 1930s, several household names had created their own wildly popular radio series. In 1938, Orson Welles created and hosted a weekly series titled "
+        },
+        {
+          "text": "The Mercury Theatre on the Air",
+          "italic": true
+        },
+        {
+          "text": ", which remains well-known for its infamous adaptation of H. G. Wells' novel "
+        },
+        {
+          "text": "The War of the Worlds",
+          "italic": true
+        },
+        {
+          "text": ". Irving Reis founded "
+        },
+        {
+          "text": "Columbia Workshop",
+          "italic": true
+        },
+        {
+          "text": " in 1936; it remained on the air until 1943. Under Reis' direction and supervision, "
+        },
+        {
+          "text": "Columbia Workshop",
+          "italic": true
+        },
+        {
+          "text": " produced a series of radio plays, including \"The Fall of the City,\" one of, in Verma's words, \"the most openly polemical radio plays aired in the United States during the Great Depression\" (17). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Radio Drama Aesthetics",
+          "underline": true,
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "There are several unique aesthetic qualities attributed to the golden age of radio drama that helped these productions maintain a place in the cultural consciousness. The sub-pages listed under \"The Golden Age of Radio Drama\" in the lefthand side bar delve into three core aspects of radio drama aesthetics: voice, noise, and music."
+        }
+      ]
+    }
+  ],
+  "title": "The Golden Age of Radio Drama",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-golden-age-of-radio-drama",
+  "created_at": "2025-04-15T02:53:27.164Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-15T02:53:27.164Z",
+  "updated_by": "agunnells"
+}
