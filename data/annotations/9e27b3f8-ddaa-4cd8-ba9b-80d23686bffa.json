@@ -1,5 +1,195 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 19,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Police officer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "d2da711a-00b6-45bb-bca4-0fc20e5d495f"
+    },
+    {
+      "start_time": 26,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "James Alphonso Frye"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "02b0d2ab-1bc9-4a48-ba5f-b6388b58b649"
+    },
+    {
+      "start_time": 44,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Frye's voice reading his own writing out loud"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "0a5d2d69-9a92-49c9-8cf6-379772bae32f"
+    },
+    {
+      "start_time": 167,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Police officer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "df75f0c4-dd6f-4133-8f8f-9c522406f2d6"
+    },
+    {
+      "start_time": 171,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "James Alphonso Frye"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "73f6db30-2d5f-4619-96ff-9a6ad737e25d"
+    },
+    {
+      "start_time": 192,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "James Alphonso Frye"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "ba8f998c-44b7-4a2e-9f4f-fe480b224be2"
+    },
+    {
+      "start_time": 205,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "James Alphonso Frye"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "31202b4f-051a-4c9f-ba73-ce4383f35a8b"
+    },
+    {
+      "start_time": 207,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Police officer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "cb0ce4ae-c0ae-44b4-8262-71a9ba0740c2"
+    },
+    {
+      "start_time": 208,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "James Alphonso Frye"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "623a9745-789c-4822-8f8c-59b863b779b4"
+    }
+  ],
   "set": "Default",
   "event_id": "dd443baf-d0eb-410e-8712-62ca1f7d6fff",
   "source_id": "56058783-99cb-4181-8ba7-90ee2f87c7f5"
