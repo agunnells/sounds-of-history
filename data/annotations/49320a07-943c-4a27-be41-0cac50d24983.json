@@ -1,5 +1,1490 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ominous orchestral music that transitions into the sound of thunder"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "fbb3d824-cb60-49b4-bbf8-c1351d0ea7cf"
+    },
+    {
+      "start_time": 25,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of whistling wind"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "1f54ed1a-fc7d-4e90-a90f-e7d60a355c1d"
+    },
+    {
+      "start_time": 26,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another booming sound, perhaps suggesting thunder"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "900dcec6-d572-4895-87a4-ca71adc69c20"
+    },
+    {
+      "start_time": 32,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blood-curdling scream"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        },
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "390f604a-7c06-47f8-a1dd-8dc68462c510"
+    },
+    {
+      "start_time": 33,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "daad5e3c-a93d-48ea-89e7-b3cc70ca1c6c"
+    },
+    {
+      "start_time": 35,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of whistling wind returns"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "9f8355ea-dff9-4411-bcba-f0087bdbe3d6"
+    },
+    {
+      "start_time": 38,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knocking on door"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "bd029552-8612-4c61-9299-c7822bcb6f45"
+    },
+    {
+      "start_time": 40,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown voice beckoning the person knocking to enter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "dbc3f00c-6bff-4d0e-be29-2350c9c3a1e2"
+    },
+    {
+      "start_time": 41,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Door opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "f293e8ff-8f1d-40d3-b1e3-d9c5003bf283"
+    },
+    {
+      "start_time": 43,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A person by the name of Wilson begins speaking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "d5f01991-af1e-470d-b1f5-9fe491bb72ba"
+    },
+    {
+      "start_time": 47,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The doctor and Wilson - who is perhaps a nurse or orderly - have a conversation about a patient"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "c8b6442e-8053-4c51-b70d-52cc1e704092"
+    },
+    {
+      "start_time": 60,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "93ae7c98-5fff-4d78-8bb2-77287030c88c"
+    },
+    {
+      "start_time": 60,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conversation between doctor and Wilson continues; the sound of whistling wind fluctuates in the background, creating an eerie feeling"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        },
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "de734ffc-e463-4f66-95da-f807496499b9"
+    },
+    {
+      "start_time": 130,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "da840c0f-3742-418b-ac27-43c0bf757b4d"
+    },
+    {
+      "start_time": 203,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "60946c83-bffa-4091-93dd-d3ac7d0a5faf"
+    },
+    {
+      "start_time": 240,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "3de84030-979c-49c2-81d9-ba175705a07a"
+    },
+    {
+      "start_time": 269,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another (fainter) booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "d05dc6c8-e964-4914-a0ba-e7db9340fbd1"
+    },
+    {
+      "start_time": 272,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music signals transition from conversation between to men to a flashback of the night of the murder; music is ominous and builds slowly until it drowns out all other noises"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "80d74c28-7dfc-407a-a185-e5ff6564e55d"
+    },
+    {
+      "start_time": 295,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ticking sound begins, as if a wood block is being struck in rhythm; likely signals a clock ticking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "08185d6c-d38a-4517-92c0-95283ac8d9a4"
+    },
+    {
+      "start_time": 306,
+      "end_time": 395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voice of the murderer, low and whispering; the ticking clock and whistling wind continue as he speaks"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        },
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "b990dd75-0aaf-429b-907a-901b20561887"
+    },
+    {
+      "start_time": 369,
+      "end_time": 369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "d70c9af2-289f-4544-8232-e6aa92c0cfb1"
+    },
+    {
+      "start_time": 380,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "0cc9fa27-c4a4-4558-8791-61e4117edce3"
+    },
+    {
+      "start_time": 395,
+      "end_time": 395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of clock chiming"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "8486305b-1fc7-4231-802a-0696d8050f7a"
+    },
+    {
+      "start_time": 400,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ominous music begins to build in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "e52d8be0-141b-487b-a4a5-4aeebfea53d0"
+    },
+    {
+      "start_time": 411,
+      "end_time": 411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Murderer's voice begins again, with whistling wind, the ticking sound, and ominous musical tones playing beneath it"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        },
+        {
+          "category": "Music",
+          "tag": "music"
+        },
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "895c1d9b-23e9-4db6-b295-dce269eb19bf"
+    },
+    {
+      "start_time": 461,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Old man yawns"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "385965ea-c159-4c02-bd01-cd220660fc1b"
+    },
+    {
+      "start_time": 481,
+      "end_time": 481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Old man asks what time it is"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "03ed7dad-4297-4d1a-9b5b-b6c060b41aad"
+    },
+    {
+      "start_time": 482,
+      "end_time": 670,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conversation between old man and his companion (the murderer); as they converse, the ticking sound and whistling wind remain steady in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        },
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "27ccbaa4-216d-4cf1-86a4-e12687b90fcb"
+    },
+    {
+      "start_time": 671,
+      "end_time": 671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of feet walking across the slightly creaking floor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "8f4f359b-5ffd-4ac5-a595-1a0d9684f079"
+    },
+    {
+      "start_time": 690,
+      "end_time": 691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Large booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "b86c8151-0dbd-48f3-82ac-61f8893c3195"
+    },
+    {
+      "start_time": 695,
+      "end_time": 695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ominous music returns"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "fb3ef9b9-e106-4103-8c21-513d339dc5fa"
+    },
+    {
+      "start_time": 698,
+      "end_time": 743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Murderer's voice returns, accompanied by ominous music, ticking sound, and whistling wind"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        },
+        {
+          "category": "Music",
+          "tag": "music"
+        },
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "3e5a1762-08e7-4d71-8bac-6f85725b8d66"
+    },
+    {
+      "start_time": 770,
+      "end_time": 770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "773a8d6e-f438-4712-9d3f-5ae08b2fa50a"
+    },
+    {
+      "start_time": 772,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ominous music returns, this time quite loud"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "0e041612-b8db-4291-9e4e-63ac06cd04f6"
+    },
+    {
+      "start_time": 781,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Multiple soft voices, some almost child-like"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "6b368555-9fa3-4b9a-959f-799e83dd30fb"
+    },
+    {
+      "start_time": 804,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creaking door opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "0f826e66-78d9-4578-a7eb-1d0bceb7b380"
+    },
+    {
+      "start_time": 833,
+      "end_time": 867,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As voices continue, ominous music grows louder"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        },
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "187a49e2-7d48-4cbf-8d18-254ba0b2a7cc"
+    },
+    {
+      "start_time": 867,
+      "end_time": 867,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of clock chiming"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "7b70a6f0-3569-4587-8ef1-68dcebfe05fc"
+    },
+    {
+      "start_time": 867,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soft child-like voices continue talking about murderer walks through various rooms in the house"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "b57ce4c0-00d3-46d7-bdd9-1eeb3375595b"
+    },
+    {
+      "start_time": 891,
+      "end_time": 891,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of footsteps walking across the floor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "1e59902d-c7cf-4b69-a75e-cc1fbd74121f"
+    },
+    {
+      "start_time": 914,
+      "end_time": 914,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creaking door"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "ee881341-4b1e-44b1-bc84-483523f9285f"
+    },
+    {
+      "start_time": 950,
+      "end_time": 950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another creaking sound, likely another door opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "99607053-9980-49e8-b529-8f81665358ea"
+    },
+    {
+      "start_time": 998,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man screaming"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "25d04144-3f7e-40bb-9df9-8d23092942d9"
+    },
+    {
+      "start_time": 1000,
+      "end_time": 1000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud ominous music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "ac0ca74e-a552-4c16-b1dd-e63a8e408cd8"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soft voices return with wind whistling in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        },
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "9cc0baae-6a79-441b-b469-8eefb680dd84"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud boom"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "c511988a-126e-4f20-97ca-6a0a4cbff4dc"
+    },
+    {
+      "start_time": 1037,
+      "end_time": 1037,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ominous music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "aee23ed6-afd7-4b75-be5e-2cd816577b28"
+    },
+    {
+      "start_time": 1049,
+      "end_time": 1049,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ticking sound returns"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "c6d7162b-095e-4050-8014-298232c6d5e6"
+    },
+    {
+      "start_time": 1059,
+      "end_time": 1059,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knocking on door"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "0434429e-a1e9-45ec-a1ec-bfbeb9c2bba1"
+    },
+    {
+      "start_time": 1075,
+      "end_time": 1145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knocking grows louder; murderer answers and discovers that it is the police"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        },
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "87a1b6ee-2ea1-4fc1-b5d1-023929cac33a"
+    },
+    {
+      "start_time": 1145,
+      "end_time": 1145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of door shutting"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "b16f2105-075a-461e-8a1b-5df9c1dc86a8"
+    },
+    {
+      "start_time": 1146,
+      "end_time": 1146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of feet walking across the floor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "f0994024-fa1f-446e-8e1a-f13a4fc2348d"
+    },
+    {
+      "start_time": 1147,
+      "end_time": 1187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Various sounds of feet walking across the floor, scuffing, shuffling, and creaking "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "2510ea33-e1b0-430d-ac9d-9ae9da9b5688"
+    },
+    {
+      "start_time": 1250,
+      "end_time": 1250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of wine pouring into a glass"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "8a355040-cf1c-4611-886e-8a72fe66256d"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A rhythmic beating, like that of a heart, begins to grow"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "917e115e-f339-416b-af30-4f66d02216e8"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conversation between murderer and police officers; the entire time, the ticking sound and beating heart are audible"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        },
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "d288fa4a-1b2a-44fa-ad6c-ceaa5bcca615"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of more wine pouring into glass"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "2a72da48-71a8-4eed-9f83-a226ac6e9f18"
+    },
+    {
+      "start_time": 1323,
+      "end_time": 1323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of footsteps"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "6bd25f23-8452-49c3-b5d5-f591486912c9"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another set of footsteps is audible"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "c15cbc02-e930-431b-ae46-cc81a020c740"
+    },
+    {
+      "start_time": 1387,
+      "end_time": 1387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More wine being poured"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "5b533a65-f543-4d01-bbff-3f22424e27b6"
+    },
+    {
+      "start_time": 1426,
+      "end_time": 1426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soft ominous music barely audible in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "37a09311-18a6-46ec-a9e7-d6a9d65c5415"
+    },
+    {
+      "start_time": 1465,
+      "end_time": 1465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Murderer's voice growing more frantic as he is unable to ignore the sound of his victim's beating heart"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        },
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "015c1165-a89f-4291-8e11-ee710a465246"
+    },
+    {
+      "start_time": 1536,
+      "end_time": 1536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Murderer's voice has grown increasingly frenzied as he yells at the policemen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "7bcb3cc2-3d47-466e-a4ca-ccb8ddc2c574"
+    },
+    {
+      "start_time": 1630,
+      "end_time": 1630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The murderer frantically confesses to his crime"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "77a5199c-6b50-4ff3-a914-de920f6bda7a"
+    },
+    {
+      "start_time": 1641,
+      "end_time": 1641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud boom"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "939b1669-395e-4e75-ae1d-1561a7613630"
+    },
+    {
+      "start_time": 1642,
+      "end_time": 1643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very loud ominous music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "fa715977-182d-470b-ad2e-3098ea4efd75"
+    },
+    {
+      "start_time": 1643,
+      "end_time": 1702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Scene transitions to conversation between doctor and Wilson; the wind can once again be heard whistling in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        },
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "2eb6dd53-56f5-423a-b75a-4242b1950845"
+    },
+    {
+      "start_time": 1708,
+      "end_time": 1708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of beating heart returns"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "f0abee18-8e27-4804-b3a9-ebf11add37fd"
+    }
+  ],
   "set": "Default",
   "event_id": "7e542b90-f09b-40f1-b4b1-08817015c0b5",
   "source_id": "e2e43e1c-56e5-4178-ba1a-c3114d2ed013"
