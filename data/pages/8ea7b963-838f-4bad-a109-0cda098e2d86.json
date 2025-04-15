@@ -4,6 +4,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Overview: ",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": "The Last Archive",
+          "bold": true,
+          "underline": true,
+          "italic": true
+        },
+        {
+          "text": "'s Historical Reenactments",
+          "bold": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "To make "
         },
         {
@@ -70,7 +91,39 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Let's take a listen to some examples of the Foolproof Players in action. Although reenactments are included in each episode of Season 1 of "
+        },
+        {
+          "text": "The Last Archive",
+          "italic": true
+        },
+        {
+          "text": ", I've chosen to focus on moments from the first two episodes: \"The Clue of the Blue Bottle\" and \"Detection of Deception.\" In the first episode, \"The Clue of the Blue Bottle,\" Lepore revisits the 1919 murder of Lucina Broadwell in Barre, Vermont, and George Long's subsequent conviction for Broadwell's murder. In the second episode, \"Detection of Deception,\" Lepore revisits the invention of the lie detector by William Moulton Marston and its use in the 1922 murder trial of James Alphonso Frye. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sound Effects",
+          "bold": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this first set of excerpts from "
+        },
+        {
+          "text": "The Last Archive",
+          "italic": true
+        },
+        {
+          "text": ", it's clear how Lepore and her team were inspired by the sound effects so common in 1930s radio drama. The excerpt from \"The Clue of the Blue Bottle\" reenactments reporting on Broadwell's murder, whereas the excerpt from \"Detection of Deception\" reenacts an experiment William Moulton Marston used in his psychology classroom."
         }
       ]
     },
@@ -98,7 +151,9 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[text]"
+          "text": "Voice",
+          "bold": true,
+          "underline": true
         }
       ]
     },
@@ -106,7 +161,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "In this second set of excerpts from "
+        },
+        {
+          "text": "The Last Archive",
+          "italic": true
+        },
+        {
+          "text": ", one gets a sense of how the Foolproof Players incorporated the particular speech mannerisms and patterns of 1930s radio drama. The excerpt from \"The Clue of the Blue Bottle\" reenactments portions of George Long's murder trial, while the excerpt from \"Detection of Deception\" reenactments portions from James Alphonso Frye's police interrogation. "
         }
       ]
     },
@@ -156,6 +218,6 @@
   "slug": "the-foolproof-players",
   "created_at": "2025-04-15T02:59:01.395Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-15T13:56:55.422Z",
+  "updated_at": "2025-04-15T14:10:31.996Z",
   "updated_by": "agunnells"
 }
