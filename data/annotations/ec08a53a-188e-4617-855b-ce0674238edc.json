@@ -1,5 +1,111 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 30,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition music to indicate move from Welles' introduction to an announcement of the Dracula production"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "335ab900-55e5-4afc-9e0f-389141679df2"
+    },
+    {
+      "start_time": 48,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music to indicate transition from radio announcement to Dracula"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "51ba1aa6-56dd-4408-ae5d-7ef08a04852c"
+    },
+    {
+      "start_time": 127,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background music - the short, plucking notes set an inquisitive, almost playful tone at first"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "8d4b16c2-ddc9-4bfa-a0ae-13c953451de0"
+    },
+    {
+      "start_time": 130,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background music transitions to longer tones, creating a more ominous feel"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "27e2eb01-a785-40aa-91b6-32528c49e65c"
+    },
+    {
+      "start_time": 139,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background music repeats, this time fainter and slightly masked under other sound effects and voices"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "18950c8a-ded2-490f-90d2-37cb901668d0"
+    }
+  ],
   "set": "Default",
   "event_id": "05a2cf01-171b-418e-89e3-4d9dbc4558a5",
   "source_id": "dfaf1b0b-5eb3-426f-93d6-48477f0a6d57"
