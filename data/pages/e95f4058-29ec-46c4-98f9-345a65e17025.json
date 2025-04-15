@@ -19,14 +19,96 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\"Making the Last Archive.\" "
+          "text": "\"Dracula.\" "
         },
         {
-          "text": "The Last Archive",
+          "text": "Mercury Theater on the Air",
           "italic": true
         },
         {
-          "text": ", https://www.thelastarchive.com/making-the-last-archive. Accessed 13 April 2025. "
+          "text": ". Columbia Broadcasting System, 11 July 1938. Retrieved from "
+        },
+        {
+          "text": "The Internet Archive, ",
+          "italic": true
+        },
+        {
+          "text": "https://archive.org/details/OrsonWelles_MercuryTheatre. Accessed 15 April 2025. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Hamlet, Part 2.\" "
+        },
+        {
+          "text": "Columbia Workshop",
+          "italic": true
+        },
+        {
+          "text": ". Columbia Broadcasting System, 14 November 1936. Retrieved from "
+        },
+        {
+          "text": "The Internet Archive",
+          "italic": true
+        },
+        {
+          "text": ", https://archive.org/download/columbia-workshop-1938-07-23-100-murder-in-the-cathedral. Accessed 15 April 2025. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lepore, Jill, host. “The Clue of the Blue Bottle.” The Last Archive (podcast). 14 May 2020. https://www.thelastarchive.com/season-1/episode-1-the-clue-of-the-blue-bottle. Accessed 15 April 2025. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lepore, Jill, host. \"Detection of Deception.\" The Last Archive (podcast). 21 May 2020. https://www.thelastarchive.com/season-1/episode-2-detection-of-deception. Accessed 15 April 2025. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Making the Last Archive.\" "
+        },
+        {
+          "text": "The Last Archive, ",
+          "italic": true
+        },
+        {
+          "text": "https://www.thelastarchive.com/making-the-last-archive. Accessed 13 April 2025. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Murder Castle.\" "
+        },
+        {
+          "text": "Lights Out",
+          "italic": true
+        },
+        {
+          "text": ". National Broadcasting Corporation, 16 February 1938. Retrieved from "
+        },
+        {
+          "text": "The Internet Archive",
+          "italic": true
+        },
+        {
+          "text": ", https://archive.org/details/LightsOutMurderCastle08031943. Accessed 15 April 2025."
         }
       ]
     },
@@ -42,6 +124,28 @@
         },
         {
           "text": "Routledge, 2017, https://doi.org/10.4324/9781315530772."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"The Tell-Tale Heart.\" "
+        },
+        {
+          "text": "Columbia Workshop",
+          "italic": true
+        },
+        {
+          "text": ". Columbia Broadcasting System, 11 July 1937. Retrieved from "
+        },
+        {
+          "text": "The Internet Archive",
+          "italic": true
+        },
+        {
+          "text": ", https://archive.org/details/columbia-workshop-1938-07-23-100-murder-in-the-cathedral. Accessed 15 April 2025. "
         }
       ]
     },
@@ -84,6 +188,6 @@
   "slug": "works-cited",
   "created_at": "2025-04-15T03:00:21.437Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-15T03:00:21.437Z",
+  "updated_at": "2025-04-15T16:00:06.351Z",
   "updated_by": "agunnells"
 }
