@@ -1,0 +1,38 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As one of the hallmarks of radio drama, noise specifically refers to the sound effects utilized by radio producers. In fact, VanCour notes that a 1931 manual for radio writers stated that a golden rule for successful radio drama was to \"never 'play' any action in words or call attention to any portion of a setting if you can play the same action with an easily recognized sound effect or establish...the same setting with an atmospheric background of readily recognized sounds\" (118). Importantly, sound effects were not simply included to fill the silence - rather, sound effects were seen as a crucial means for creating a sense of realism within a radio drama. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The use of sound effects was, in Verma's words, a way to \"draw pictures in the mind\" (13) of listeners. In order to accomplish this, radio producers had to be creative with their methods for achieving particular sonic effects. Pavlik uses the example of the radio show "
+        },
+        {
+          "text": "Lights Out",
+          "italic": true
+        },
+        {
+          "text": " to demonstrate the variety of techniques producers would use to achieve particular sound effects, which included sound effects to represent \"people getting their heads chopped off (as cabbage was chopped in half with a meat cleaver), or bones being broken (by busting spare ribs apart with a pipe wrench), or human bodies being cannibalized (as the SFX man zealously consumed spaghetti)\" (80). "
+        }
+      ]
+    }
+  ],
+  "title": "Noise",
+  "parent": "91b84c94-8ff8-4ca3-a3fa-3c3a8ba73b7c",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "noise",
+  "created_at": "2025-04-15T02:55:51.150Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-15T02:55:51.150Z",
+  "updated_by": "agunnells"
+}
