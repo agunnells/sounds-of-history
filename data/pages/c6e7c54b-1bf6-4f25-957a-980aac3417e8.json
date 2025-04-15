@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[insert text]"
+        }
+      ]
+    }
+  ],
+  "title": "Putting It All Together",
+  "parent": "91b84c94-8ff8-4ca3-a3fa-3c3a8ba73b7c",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "putting-it-all-together",
+  "created_at": "2025-04-15T02:58:02.925Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-15T02:58:02.925Z",
+  "updated_by": "agunnells"
+}
