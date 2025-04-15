@@ -1,5 +1,111 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 13,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of footsteps, first presumably on the stairs and then walking across the floor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "50828d4b-11cf-4c97-bd31-96e7d81423e2"
+    },
+    {
+      "start_time": 102,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High-pitched groan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "acd4d35c-29c7-4839-a86d-2d9c5ccdfec1"
+    },
+    {
+      "start_time": 111,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man grunting"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "3ab2a316-5398-4677-aedc-0a074bd8d076"
+    },
+    {
+      "start_time": 118,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Faint splashing, indicating a the body hitting liquid concrete"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "cd166307-03ef-46b5-bbdd-2b6b5e6d3337"
+    },
+    {
+      "start_time": 125,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of bubbling, indicating the body sinking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "689bab70-d49c-476c-874e-3afc4f0af2c4"
+    }
+  ],
   "set": "Default",
   "event_id": "c45794b0-ece8-4463-9997-567680e5f5ba",
   "source_id": "53ea61e7-0219-4f67-a5de-e5c39f276e28"
