@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "dfaf1b0b-5eb3-426f-93d6-48477f0a6d57": {
+      "label": "Dracula Excerpt",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/dracula-excerpt-mercury-theater/Dracula_excerpt_Mercury%20Theater.mp3",
+      "duration": 184,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Mercury Theater on the Air, \"Dracula\" Excerpt",
+  "created_at": "2025-04-15T03:25:50.475Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-15T03:25:50.475Z",
+  "updated_by": "agunnells"
+}
