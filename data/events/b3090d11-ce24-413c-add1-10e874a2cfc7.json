@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "a9bb4b2f-6043-46d7-9a67-152d0ec13543": {
+      "label": "The Clue of the Blue Bottle Excerpt 2",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/clue-of-the-blue-bottle-ep-1-trial/Clue%20of%20the%20Blue%20Bottle_Ep%201_Trial.mp3",
+      "duration": 189,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "The Last Archive, \"The Clue of the Blue Bottle\" Excerpt 2",
+  "created_at": "2025-04-15T03:38:56.106Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-15T03:38:56.106Z",
+  "updated_by": "agunnells"
+}
