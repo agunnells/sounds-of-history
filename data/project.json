@@ -1,1 +1,79 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[{"login_name":"agunnells","avatar_url":"https://avatars.githubusercontent.com/u/92882334?v=4","admin":true}],"project":{"github_org":"agunnells","is_private":false,"title":"The Sound(s) of History","description":"Ali Gunnells' curation project for RHE 391: Rhetoric & Aesthetics. ","language":"en","slug":"sounds-of-history","creator":"agunnells","authors":"Ali Gunnells","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"color":"#B3B3E6","category":"Voice"},{"color":"#DA9ECF","category":"Sound effects"},{"color":"#ADFEFF","category":"Music"}],"tags":[{"category":"Voice","tag":"voice"},{"category":"Sound effects","tag":"sound effects"},{"category":"Music","tag":"music"}]},"created_at":"2025-04-15T02:48:02.958Z","updated_at":"2025-04-15T03:18:16.183Z","generate_pages_site":true},"annotations":{},"events":{},"pages":{"5d16c72d-d852-41f8-8eb4-98a7b8a8352d":{"content":[],"created_at":"2025-04-15T02:48:02.996Z","created_by":"agunnells","title":"The Sound(s) of History","updated_at":"2025-04-15T02:48:02.996Z","updated_by":"agunnells","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["5d16c72d-d852-41f8-8eb4-98a7b8a8352d"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [
+    {
+      "login_name": "agunnells",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92882334?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "agunnells",
+    "is_private": false,
+    "title": "The Sound(s) of History",
+    "description": "Ali Gunnells' curation project for RHE 391: Rhetoric & Aesthetics. ",
+    "language": "en",
+    "slug": "sounds-of-history",
+    "creator": "agunnells",
+    "authors": "Ali Gunnells",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#B3B3E6",
+          "category": "Voice"
+        },
+        {
+          "color": "#DA9ECF",
+          "category": "Sound effects"
+        },
+        {
+          "color": "#ADFEFF",
+          "category": "Music"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        },
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        },
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ]
+    },
+    "created_at": "2025-04-15T02:48:02.958Z",
+    "updated_at": "2025-04-15T03:20:25.368Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "5d16c72d-d852-41f8-8eb4-98a7b8a8352d": {
+      "content": [],
+      "created_at": "2025-04-15T02:48:02.996Z",
+      "created_by": "agunnells",
+      "title": "The Sound(s) of History",
+      "updated_at": "2025-04-15T02:48:02.996Z",
+      "updated_by": "agunnells",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "5d16c72d-d852-41f8-8eb4-98a7b8a8352d"
+  ]
+}

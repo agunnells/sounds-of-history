@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "53ea61e7-0219-4f67-a5de-e5c39f276e28": {
+      "label": "Murder Castle Excerpt 2",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/murder-castle-excerpt-1-lights-out/Murder%20Castle_excerpt%202_Lights%20Out.mp3",
+      "duration": 142,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Lights Out, \"Murder Castle\" Excerpt 2",
+  "created_at": "2025-04-15T03:20:25.081Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-15T03:20:25.081Z",
+  "updated_by": "agunnells"
+}
