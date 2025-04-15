@@ -4,7 +4,65 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[text]"
+          "text": "To make "
+        },
+        {
+          "text": "The Last Archive",
+          "italic": true
+        },
+        {
+          "text": ", Lepore and her team set out to bring historical records to life. As they explain, \""
+        },
+        {
+          "text": "The Last Archive",
+          "italic": true
+        },
+        {
+          "text": " is a history show. Our evidence is the evidence of history, the evidence of archives. Manuscripts, photographs, letters and diaries, government documents. Facebook posts, Youtube videos, DVDs. Oral histories. [...] So, we wanted the show to "
+        },
+        {
+          "text": "sound",
+          "italic": true
+        },
+        {
+          "text": " like history, too. A real historical record\" (\"Making the Last Archive\"). Throughout their discussion of how they made "
+        },
+        {
+          "text": "The Last Archive",
+          "italic": true
+        },
+        {
+          "text": ", Lepore and her team reinforce the notion that the aesthetics of historical sound are more than mere orientation. In other words, as they claim, \"History sounds like archives. It's the crackle of a record, the light warping of a tape that's seen too much sun, the wearing of time. Those touches are like fins on a Cadillac in a movie about the '50s - they're how you know where you are in time\" (\"Making the Last Archive\"). Here, then, is the crucial point: according to Lepore and her team, "
+        },
+        {
+          "text": "sound orients us to history",
+          "italic": true
+        },
+        {
+          "text": " - it is an integral component of understanding history. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The challenge, of course, is that one never knows what kinds of recordings will be available in any given archive. Lepore and her team draw on a wide range of historical events, some of which happened before sound recording was invented, some of which were never recorded, and some of which were recorded but then lost. To address this problem, Lepore and her team hired an ensemble of actors called the Foolproof Players to reenact particular historical events: \"...if we were able to find historical documents that tell us what happened - like, say, the transcript of a Congressional hearing, a newspaper report, or the official proceedings of a trial - we hired an ensemble of actors, our Foolproof Players, to read that stuff, to perform it, while we recorded it\" (\"Making the Last Archive\"). After the reenactments were recorded, the tapes were \"treated\" to make them "
+        },
+        {
+          "text": "sound",
+          "italic": true
+        },
+        {
+          "text": " historical. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Although Lepore and her team claim they wanted these reenactments to sound historical, they had one specific historical era in mind: the Golden Age of Radio Drama. As they explain, the Foolproof Players were asked to perform any reenactment scenes in the style of a 1930s radio drama. Lepore and her team were after a particular type of acting style; the Foolproof Players \"had to be super hokey, and also mannered in a certain way\" (\"Making the Last Archive\"). "
         }
       ]
     },
@@ -98,6 +156,6 @@
   "slug": "the-foolproof-players",
   "created_at": "2025-04-15T02:59:01.395Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-15T13:19:13.952Z",
+  "updated_at": "2025-04-15T13:56:55.422Z",
   "updated_by": "agunnells"
 }
