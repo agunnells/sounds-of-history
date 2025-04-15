@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[text]"
+        }
+      ]
+    }
+  ],
+  "title": "Sounding Like History",
+  "parent": "c3ffbb36-af19-4a44-858d-b9286c39d9e0",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "sounding-like-history",
+  "created_at": "2025-04-15T02:59:17.147Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-15T02:59:17.147Z",
+  "updated_by": "agunnells"
+}
