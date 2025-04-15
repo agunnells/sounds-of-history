@@ -1,1 +1,75 @@
-{"content":[{"type":"paragraph","children":[{"text":"Music served a variety of purposes in radio drama: it could set the mood for a scene, reflect the personality of a certain character, or signal a scene change, to name just a few uses. VanCour notes that music was crucial for establishing mood within a scene - in fact, many larger radio stations had small orchestral ensembles on hand (115). On the other hand, particular melodies could be used to punctuate conversations between characters or, in some instances, a particular melody was associated with a character as a way to provide further context for their personality (VanCour 115). "}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"05a2cf01-171b-418e-89e3-4d9dbc4558a5","includes":["media","annotations","label","description"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"Music","parent":"91b84c94-8ff8-4ca3-a3fa-3c3a8ba73b7c","autogenerate":{"enabled":false,"type":"custom"},"slug":"music","created_at":"2025-04-15T02:56:20.952Z","created_by":"agunnells","updated_at":"2025-04-15T03:28:55.973Z","updated_by":"agunnells"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Music served a variety of purposes in radio drama: it could set the mood for a scene, signal a scene change, or accomplish a variety of other goals. VanCour notes that music was crucial for establishing mood within a scene - in fact, many larger radio stations had small orchestral ensembles on hand (115). On the other hand, particular melodies could be used to punctuate conversations between characters or, in some instances, a particular melody was associated with a character as a way to provide further context for their personality (VanCour 115). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Let's take a listen to an excerpt from the "
+        },
+        {
+          "text": "Mercury Theater on the Air",
+          "italic": true
+        },
+        {
+          "text": "'s 1938 rendition of Bram Stoker's "
+        },
+        {
+          "text": "Dracula",
+          "italic": true
+        },
+        {
+          "text": ". In the opening scenes, music is serves a few distinct purposes. First, one notices how music is utilized as a cue for transitioning between announcements and then to the actual drama itself. On the other hand, the music included in the background of "
+        },
+        {
+          "text": "Dracula",
+          "italic": true
+        },
+        {
+          "text": "'s opening scene sets an ominous, frightful tone for the drama. "
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "05a2cf01-171b-418e-89e3-4d9dbc4558a5",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Music",
+  "parent": "91b84c94-8ff8-4ca3-a3fa-3c3a8ba73b7c",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "music",
+  "created_at": "2025-04-15T02:56:20.952Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-15T14:31:26.066Z",
+  "updated_by": "agunnells"
+}
