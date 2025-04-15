@@ -1,1 +1,46 @@
-{"content":[{"type":"paragraph","children":[{"text":"[insert text]"}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"7e542b90-f09b-40f1-b4b1-08817015c0b5","includes":["media","annotations","label","description"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"Putting It All Together","parent":"91b84c94-8ff8-4ca3-a3fa-3c3a8ba73b7c","autogenerate":{"enabled":false,"type":"custom"},"slug":"putting-it-all-together","created_at":"2025-04-15T02:58:02.925Z","created_by":"agunnells","updated_at":"2025-04-15T03:33:29.694Z","updated_by":"agunnells"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "While this curation has looked at each core component of 1930s radio drama - voice, noise, and music - separately, it is of course important to note that the popularity and impact of these dramas was a result of these three components working together. Let's consider one more example of a 1930s radio drama: the Columbia Workshop's 1937 production of Edgar Allen Poe's short story \"The Tell-Tale Heart.\" Pay particular attention to the ways in which voice, noise, and music work together to create a foreboding, increasingly frantic affect for the listener. "
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "7e542b90-f09b-40f1-b4b1-08817015c0b5",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Putting It All Together",
+  "parent": "91b84c94-8ff8-4ca3-a3fa-3c3a8ba73b7c",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "putting-it-all-together",
+  "created_at": "2025-04-15T02:58:02.925Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-15T14:37:09.110Z",
+  "updated_by": "agunnells"
+}
