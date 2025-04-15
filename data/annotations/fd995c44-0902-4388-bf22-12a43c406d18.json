@@ -1,5 +1,90 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of typewriter keys clacking underneath reporter's voice"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "58000ef8-28f3-4c6e-8f66-78fa5f504d19"
+    },
+    {
+      "start_time": 57,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clacking of typewriter keys reappears"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "f883901a-325e-465a-90f3-f230342be8f1"
+    },
+    {
+      "start_time": 77,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Faint sound of ticking watch as Lepore is talking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "cfc7b09a-0d1a-4dcf-89f3-9410a30d7dcc"
+    },
+    {
+      "start_time": 114,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Horse hooves clopping, as if walking on cobblestone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "9573831d-41f6-4739-80ab-85b44ae3dc1e"
+    }
+  ],
   "set": "Default",
   "event_id": "ae42d1ae-22e3-41ce-b32b-96a7f06ebb7e",
   "source_id": "44518e69-217b-4e65-a141-3eb9b83d9044"
