@@ -14,6 +14,37 @@
           "text": " actors' voices sounded that communicated their characters\" (111). This need to \"clearly differentiate and swiftly communicate characters\" (VanCour 111) resulted in the development of stock voices that many radio dramas relied on. Stock voices became an easy way for radio dramas to imply a character's gender, race, class, ethnicity, geographical location, and more. Beyond these markers, VanCour notes that stock voices were also used to imply particular character tropes: \"To this end, Rosaline Greene explained that the WGY's actors relied heavily on stock voices, favoring a 'light and lilting' voice for blondes, contralto voices for a 'dark-haired sexy person,' 'a thin quavery voice and a slower tempo' for elderly characters, and 'an oily smooth or steely rough voice' for a villain\" (112). "
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "e6b1eb3d-a441-43de-a5a9-2b6566d224c1",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Voice",
@@ -25,6 +56,6 @@
   "slug": "voice",
   "created_at": "2025-04-15T02:55:08.287Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-15T02:55:08.287Z",
+  "updated_at": "2025-04-15T03:14:05.236Z",
   "updated_by": "agunnells"
 }
