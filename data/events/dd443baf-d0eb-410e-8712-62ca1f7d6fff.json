@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "56058783-99cb-4181-8ba7-90ee2f87c7f5": {
+      "label": "Detection of Deception Excerpt 2",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/detection-of-deception-interrogation/Detection%20of%20Deception_Interrogation.mp3",
+      "duration": 238,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "The Last Archive, \"Detection of Deception\" Excerpt 2",
+  "created_at": "2025-04-15T03:44:18.456Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-15T03:44:18.456Z",
+  "updated_by": "agunnells"
+}
